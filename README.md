@@ -1,0 +1,2 @@
+# Graf Us : An investigation into networking through SNA
+ Linked In is a social platform commonly used for networking. When using Linked In for networking a limitation of the platform is that you are limited in the connections you can see at a given time making it difficult to see the big picture when looking at your connections. That is where Graf Us comes in. A social platform that allows you to visualize your Linked In connections.  
