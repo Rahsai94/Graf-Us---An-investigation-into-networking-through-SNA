@@ -1,0 +1,11 @@
+# Pycharm IDE
+.idea
+
+# Node modules
+frontend/node_modules
+
+# Custom attributes
+.DS_Store
+
+# Python compiled files
+*.pyc
