@@ -1,4 +1,4 @@
-<h1>Graf-us | Analysis Tool</h1>
+<h1>Graf-Us: An investigation into networking through SNA</h1>
 
 Data analysis and visualisation of people for companies to pick and choose who to contact.
 
